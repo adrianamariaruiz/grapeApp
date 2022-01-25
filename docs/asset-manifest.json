@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.5602061c.css",
+    "main.js": "/static/js/main.dbf6a721.js",
+    "static/media/uvas.jpg": "/static/media/uvas.42ce90b559b7cdf34b2d.jpg",
+    "static/media/vinedos.jpg": "/static/media/vinedos.8227f22d0a772b041137.jpg",
+    "index.html": "/index.html",
+    "main.5602061c.css.map": "/static/css/main.5602061c.css.map",
+    "main.dbf6a721.js.map": "/static/js/main.dbf6a721.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.5602061c.css",
+    "static/js/main.dbf6a721.js"
+  ]
+}
